@@ -2,7 +2,7 @@ import googlemaps
 from datetime import datetime
 
 # Inizializza il client della Google Maps API
-gmaps = googlemaps.Client(key='AIzaSyA2dnkiQKQwJN73ZHytMpD8P0CmL5eXOWI')
+gmaps = googlemaps.Client(key='Insert Your Key')
 
 # Indirizzo di cui si vogliono conoscere le coordinate
 indirizzo = 'via Livia Drusilla, Cinecittà, Roma'
