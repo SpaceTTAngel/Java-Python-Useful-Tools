@@ -2,6 +2,7 @@ import googlemaps
 from datetime import datetime
 
 # Inizializza il client della Google Maps API
+# Creare la chiave API all'interno di Google Clouds
 gmaps = googlemaps.Client(key='Insert Your Key')
 
 # Indirizzo di cui si vogliono conoscere le coordinate
